@@ -1,8 +1,8 @@
-# 매물광고검수 (AD-Inspector-S)
+# AD신호등 (AD-Signal)
 
-이 저장소는 **설치 파일을 내려받는 곳**입니다. 프로그램 소스는 들어 있지 않습니다.
+**부동산 매물 광고 검수 시스템 AD신호등** — 이 저장소는 **설치 파일을 내려받는 곳**입니다. 프로그램 소스는 들어 있지 않습니다.
 
-- **설치 파일**: [최신 릴리즈](https://github.com/Redeyes-Len/AD-Inspector-S/releases/latest)의 `setup_v버전.exe`
+- **설치 파일**: [최신 릴리즈](https://github.com/Redeyes-Len/AD-Signal/releases/latest)의 `setup_v버전.exe`
 - 설치한 뒤 처음 실행하면 사용 신청 화면이 나옵니다. 승인된 사무소만 사용할 수 있습니다.
 - 업데이트는 프로그램이 알아서 확인합니다.
 - 문의는 프로그램 안내 창에 나오는 연락처로 해 주세요.
